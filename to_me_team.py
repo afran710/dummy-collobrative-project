@@ -1,0 +1,2 @@
+a = "abu"
+print(a)
